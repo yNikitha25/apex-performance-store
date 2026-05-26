@@ -1,0 +1,6 @@
+{
+  "name": "Apex Performance Store",
+  "description": "Premium, high-performance dark-themed activewear shop featuring elite track footwear, technical clothing, and biometric tracking smartwatches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
